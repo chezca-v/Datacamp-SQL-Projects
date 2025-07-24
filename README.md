@@ -29,6 +29,12 @@ Welcome to my collection of **SQL projects and practice exercises** completed th
 2. Open any .sql file using your preferred code editor or database client.
 3. You can run the queries in a PostgreSQL-compatible environment for practice or modification.
 
+## 📊 Sample Projects
+
+| Project Title                      | Description                                                       |
+| ---------------------------------- | ----------------------------------------------------------------- |
+| 📺 `students-mental-health.ipynb`             | Analyzed mental health trends among international university students in Japan using PostgreSQL. Explored the impact of social connectedness, acculturative stress, and length of stay on depression risk. |
+
 ## 👩‍💻 Author
 Franchezca Natividad Z. Banayad
 - 📧 franchezca.bnyd@gmail.com
