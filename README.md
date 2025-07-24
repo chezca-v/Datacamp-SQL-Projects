@@ -24,8 +24,8 @@ Welcome to my collection of **SQL projects and practice exercises** completed th
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sql-projects-datacamp.git
-   cd sql-projects-datacamp
+   https://github.com/chezca-v/Datacamp-SQL-Projects.git
+   cd Datacamp-SQL-Projects
 2. Open any .sql file using your preferred code editor or database client.
 3. You can run the queries in a PostgreSQL-compatible environment for practice or modification.
 
