@@ -32,7 +32,7 @@ Welcome to my collection of **SQL projects and practice exercises** completed th
 ## 👩‍💻 Author
 Franchezca Natividad Z. Banayad
 - 📧 franchezca.bnyd@gmail.com
-- 🌐 github.com/chezca-v
+- 🌐 github.com/chezca-v 
 
   
 ## 📜 License
