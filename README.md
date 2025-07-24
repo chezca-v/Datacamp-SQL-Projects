@@ -33,7 +33,7 @@ Welcome to my collection of **SQL projects and practice exercises** completed th
 
 | Project Title                      | Description                                                       |
 | ---------------------------------- | ----------------------------------------------------------------- |
-| 📺 `students-mental-health.ipynb`             | Analyzed mental health trends among international university students in Japan using PostgreSQL. Explored the impact of social connectedness, acculturative stress, and length of stay on depression risk. |
+| 🧠 `students-mental-health.ipynb`             | Analyzed mental health trends among international university students in Japan using PostgreSQL. Explored the impact of social connectedness, acculturative stress, and length of stay on depression risk. |
 
 ## 👩‍💻 Author
 Franchezca Natividad Z. Banayad
