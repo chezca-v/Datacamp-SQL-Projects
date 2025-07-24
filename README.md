@@ -35,7 +35,7 @@ Franchezca Natividad Z. Banayad
 - 🌐 github.com/chezca-v
 
   
-## License
+## 📜 License
 This repository is for educational and portfolio purposes. Feel free to fork and reference for learning.
 
 
